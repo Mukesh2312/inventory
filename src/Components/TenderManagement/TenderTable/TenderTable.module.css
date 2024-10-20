@@ -1,0 +1,39 @@
+.tableContainer{
+    width: 100%;
+}
+.tableContainer table{
+    width: 100%;
+    border-collapse: collapse;
+}
+.dataItemContainer{
+    display: flex;
+}
+
+.theding th{
+    text-align: start;
+    padding: 20px;
+    color: #00000087;
+}
+.theding thead tr{
+    border-bottom: 2px solid #00000026;
+}
+
+.theding tbody tr{
+    border-bottom: 1px solid #00000026;
+    
+}
+.theding tbody td{
+    padding: 20px;
+
+}
+.actionBtn{
+    font-family: lexend, sans-serif;
+    font-weight: 400;
+    background-color: #56AAC5;
+    padding: 5px 15px;
+    border: none;
+    border-radius: 5px;
+    font-size: 12px;
+    /* border: none; */
+    cursor: pointer;
+}
