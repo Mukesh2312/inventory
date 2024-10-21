@@ -84,7 +84,6 @@ const blurStyle = {
   position: "absolute",
   width: "100%",
   height: "100vh",
-  fitler: "blur(2px)",
 };
 const popupStyles = {
   position: "fixed",
@@ -92,13 +91,12 @@ const popupStyles = {
   left: "50%",
   transform: "translate(-50%, -50%)",
   color: "white",
-  borderRadius: "5px",
   zIndex: 1000,
   width: "35rem",
   height: "25rem",
   // border: "1px solid black",
   borderRadius: "15px",
-  background: "aliceblue",
-  zIndex: 550,
+  background: "aliceblue"
+  
   // Ensures the popup is on top of other content
 };
