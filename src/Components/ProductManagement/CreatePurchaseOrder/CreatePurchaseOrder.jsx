@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import stl from "./createPurchaseOrder.module.css";
+import stl from "./CreatePurchaseOrder.module.css";
 import { Link, useNavigate } from "react-router-dom";
 import CloseIcon from "../../IconComponents/CloseIcon";
 import PlusCircleIcon from "../../IconComponents/PlusCircleIcon";
