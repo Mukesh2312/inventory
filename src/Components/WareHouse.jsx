@@ -2,7 +2,7 @@ import { useState } from "react";
 import Chart from "./Chart";
 import BarChartComponent from "./BarChat";
 import PieChartComponents from "./PieChart";
-import InventoryTable from "./inventoryTable";
+import InventoryTable from "./InventoryTable";
 import NewWarehouseComponents from "./NewWarehouseComponents";
 
 function WareHouse() {
