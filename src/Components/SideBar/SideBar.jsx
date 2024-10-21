@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
-import stl from "Sidebar.module.css"; // Add your sidebar styles here
+import stl from "./Sidebar.module.css"; // Add your sidebar styles here
 // import DashboardMIcon from "../IconComponents/DashboardMIcon";
 
 const SideBar = () => {
